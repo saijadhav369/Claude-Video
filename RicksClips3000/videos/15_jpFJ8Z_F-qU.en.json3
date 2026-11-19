@@ -1,0 +1,825 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 41533,
+    "id": 1,
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 100,
+    "dDurationMs": 2264,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "A "
+    }, {
+      "utf8": "gentleman ",
+      "tOffsetMs": 237
+    }, {
+      "utf8": "paid ",
+      "tOffsetMs": 474
+    }, {
+      "utf8": "a ",
+      "tOffsetMs": 711
+    }, {
+      "utf8": "priest",
+      "tOffsetMs": 948
+    } ]
+  }, {
+    "tStartMs": 1364,
+    "dDurationMs": 1000,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 1399,
+    "dDurationMs": 2299,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to "
+    }, {
+      "utf8": "forgive ",
+      "tOffsetMs": 231
+    }, {
+      "utf8": "a ",
+      "tOffsetMs": 462
+    }, {
+      "utf8": "crime ",
+      "tOffsetMs": 693
+    }, {
+      "utf8": "he ",
+      "tOffsetMs": 924
+    }, {
+      "utf8": "had",
+      "tOffsetMs": 1155
+    } ]
+  }, {
+    "tStartMs": 2698,
+    "dDurationMs": 1000,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 2733,
+    "dDurationMs": 2235,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "not "
+    }, {
+      "utf8": "yet ",
+      "tOffsetMs": 229
+    }, {
+      "utf8": "committed.  ",
+      "tOffsetMs": 458
+    }, {
+      "utf8": "You ",
+      "tOffsetMs": 687
+    }, {
+      "utf8": "see, ",
+      "tOffsetMs": 916
+    }, {
+      "utf8": "the",
+      "tOffsetMs": 1145
+    } ]
+  }, {
+    "tStartMs": 3968,
+    "dDurationMs": 1000,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 4013,
+    "dDurationMs": 2661,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "priest "
+    }, {
+      "utf8": "traveled ",
+      "tOffsetMs": 278
+    }, {
+      "utf8": "from ",
+      "tOffsetMs": 556
+    }, {
+      "utf8": "town ",
+      "tOffsetMs": 834
+    }, {
+      "utf8": "to ",
+      "tOffsetMs": 1112
+    }, {
+      "utf8": "town",
+      "tOffsetMs": 1390
+    } ]
+  }, {
+    "tStartMs": 5674,
+    "dDurationMs": 1000,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 5719,
+    "dDurationMs": 2437,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "selling "
+    }, {
+      "utf8": "forgiveness ",
+      "tOffsetMs": 336
+    }, {
+      "utf8": "in ",
+      "tOffsetMs": 672
+    }, {
+      "utf8": "exchange ",
+      "tOffsetMs": 1008
+    }, {
+      "utf8": "for",
+      "tOffsetMs": 1344
+    } ]
+  }, {
+    "tStartMs": 7156,
+    "dDurationMs": 1000,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 7200,
+    "dDurationMs": 2959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "coins.  "
+    }, {
+      "utf8": "Lying ",
+      "tOffsetMs": 342
+    }, {
+      "utf8": "had ",
+      "tOffsetMs": 684
+    }, {
+      "utf8": "a ",
+      "tOffsetMs": 1026
+    }, {
+      "utf8": "price, ",
+      "tOffsetMs": 1368
+    }, {
+      "utf8": "stealing",
+      "tOffsetMs": 1710
+    } ]
+  }, {
+    "tStartMs": 9159,
+    "dDurationMs": 1000,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 9208,
+    "dDurationMs": 2862,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "had "
+    }, {
+      "utf8": "a ",
+      "tOffsetMs": 294
+    }, {
+      "utf8": "price, ",
+      "tOffsetMs": 588
+    }, {
+      "utf8": "and ",
+      "tOffsetMs": 882
+    }, {
+      "utf8": "the ",
+      "tOffsetMs": 1176
+    }, {
+      "utf8": "worse ",
+      "tOffsetMs": 1470
+    }, {
+      "utf8": "the",
+      "tOffsetMs": 1764
+    } ]
+  }, {
+    "tStartMs": 11070,
+    "dDurationMs": 1000,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 11119,
+    "dDurationMs": 2780,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sin, "
+    }, {
+      "utf8": "the ",
+      "tOffsetMs": 217
+    }, {
+      "utf8": "more ",
+      "tOffsetMs": 434
+    }, {
+      "utf8": "you ",
+      "tOffsetMs": 651
+    }, {
+      "utf8": "paid.  ",
+      "tOffsetMs": 868
+    }, {
+      "utf8": "People ",
+      "tOffsetMs": 1085
+    }, {
+      "utf8": "lined ",
+      "tOffsetMs": 1302
+    }, {
+      "utf8": "up",
+      "tOffsetMs": 1519
+    } ]
+  }, {
+    "tStartMs": 12899,
+    "dDurationMs": 1000,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 12942,
+    "dDurationMs": 2537,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for "
+    }, {
+      "utf8": "hours ",
+      "tOffsetMs": 362
+    }, {
+      "utf8": "to ",
+      "tOffsetMs": 724
+    }, {
+      "utf8": "deposit ",
+      "tOffsetMs": 1086
+    }, {
+      "utf8": "their",
+      "tOffsetMs": 1448
+    } ]
+  }, {
+    "tStartMs": 14479,
+    "dDurationMs": 1000,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 14521,
+    "dDurationMs": 2538,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "money "
+    }, {
+      "utf8": "in ",
+      "tOffsetMs": 299
+    }, {
+      "utf8": "his ",
+      "tOffsetMs": 598
+    }, {
+      "utf8": "enormous ",
+      "tOffsetMs": 897
+    }, {
+      "utf8": "iron ",
+      "tOffsetMs": 1196
+    }, {
+      "utf8": "chest.",
+      "tOffsetMs": 1495
+    } ]
+  }, {
+    "tStartMs": 16059,
+    "dDurationMs": 1000,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 16163,
+    "dDurationMs": 2469,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So "
+    }, {
+      "utf8": "the ",
+      "tOffsetMs": 356
+    }, {
+      "utf8": "gentleman ",
+      "tOffsetMs": 712
+    }, {
+      "utf8": "approached ",
+      "tOffsetMs": 1068
+    }, {
+      "utf8": "and",
+      "tOffsetMs": 1424
+    } ]
+  }, {
+    "tStartMs": 17632,
+    "dDurationMs": 1000,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 17675,
+    "dDurationMs": 2427,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "asked "
+    }, {
+      "utf8": "to ",
+      "tOffsetMs": 216
+    }, {
+      "utf8": "be ",
+      "tOffsetMs": 432
+    }, {
+      "utf8": "forgiven ",
+      "tOffsetMs": 648
+    }, {
+      "utf8": "for ",
+      "tOffsetMs": 864
+    }, {
+      "utf8": "something ",
+      "tOffsetMs": 1080
+    }, {
+      "utf8": "he",
+      "tOffsetMs": 1296
+    } ]
+  }, {
+    "tStartMs": 19102,
+    "dDurationMs": 1000,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 19145,
+    "dDurationMs": 2664,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "planned "
+    }, {
+      "utf8": "to ",
+      "tOffsetMs": 314
+    }, {
+      "utf8": "do ",
+      "tOffsetMs": 628
+    }, {
+      "utf8": "next ",
+      "tOffsetMs": 942
+    }, {
+      "utf8": "week.  ",
+      "tOffsetMs": 1256
+    }, {
+      "utf8": "The",
+      "tOffsetMs": 1570
+    } ]
+  }, {
+    "tStartMs": 20809,
+    "dDurationMs": 1000,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 20856,
+    "dDurationMs": 2739,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "priest "
+    }, {
+      "utf8": "hesitated, ",
+      "tOffsetMs": 338
+    }, {
+      "utf8": "charged ",
+      "tOffsetMs": 676
+    }, {
+      "utf8": "him ",
+      "tOffsetMs": 1014
+    }, {
+      "utf8": "extra, ",
+      "tOffsetMs": 1352
+    }, {
+      "utf8": "and",
+      "tOffsetMs": 1690
+    } ]
+  }, {
+    "tStartMs": 22595,
+    "dDurationMs": 1000,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 22642,
+    "dDurationMs": 2717,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sealed "
+    }, {
+      "utf8": "the ",
+      "tOffsetMs": 311
+    }, {
+      "utf8": "paper ",
+      "tOffsetMs": 622
+    }, {
+      "utf8": "anyway.  ",
+      "tOffsetMs": 933
+    }, {
+      "utf8": "A ",
+      "tOffsetMs": 1244
+    }, {
+      "utf8": "few",
+      "tOffsetMs": 1555
+    } ]
+  }, {
+    "tStartMs": 24359,
+    "dDurationMs": 1000,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 24399,
+    "dDurationMs": 2565,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "days "
+    }, {
+      "utf8": "later, ",
+      "tOffsetMs": 289
+    }, {
+      "utf8": "the ",
+      "tOffsetMs": 578
+    }, {
+      "utf8": "priest ",
+      "tOffsetMs": 867
+    }, {
+      "utf8": "left ",
+      "tOffsetMs": 1156
+    }, {
+      "utf8": "the",
+      "tOffsetMs": 1445
+    } ]
+  }, {
+    "tStartMs": 25964,
+    "dDurationMs": 1000,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 26005,
+    "dDurationMs": 2485,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "village "
+    }, {
+      "utf8": "through ",
+      "tOffsetMs": 194
+    }, {
+      "utf8": "the ",
+      "tOffsetMs": 388
+    }, {
+      "utf8": "forest ",
+      "tOffsetMs": 582
+    }, {
+      "utf8": "with ",
+      "tOffsetMs": 776
+    }, {
+      "utf8": "the ",
+      "tOffsetMs": 970
+    }, {
+      "utf8": "chest ",
+      "tOffsetMs": 1164
+    }, {
+      "utf8": "so",
+      "tOffsetMs": 1358
+    } ]
+  }, {
+    "tStartMs": 27490,
+    "dDurationMs": 1000,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 27530,
+    "dDurationMs": 2444,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "full "
+    }, {
+      "utf8": "that ",
+      "tOffsetMs": 232
+    }, {
+      "utf8": "it ",
+      "tOffsetMs": 464
+    }, {
+      "utf8": "took ",
+      "tOffsetMs": 696
+    }, {
+      "utf8": "two ",
+      "tOffsetMs": 928
+    }, {
+      "utf8": "men",
+      "tOffsetMs": 1160
+    } ]
+  }, {
+    "tStartMs": 28974,
+    "dDurationMs": 1000,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 29015,
+    "dDurationMs": 2259,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to "
+    }, {
+      "utf8": "carry ",
+      "tOffsetMs": 198
+    }, {
+      "utf8": "it.  ",
+      "tOffsetMs": 396
+    }, {
+      "utf8": "That ",
+      "tOffsetMs": 594
+    }, {
+      "utf8": "was ",
+      "tOffsetMs": 792
+    }, {
+      "utf8": "where ",
+      "tOffsetMs": 990
+    }, {
+      "utf8": "the",
+      "tOffsetMs": 1188
+    } ]
+  }, {
+    "tStartMs": 30274,
+    "dDurationMs": 1000,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 30309,
+    "dDurationMs": 2412,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "knight "
+    }, {
+      "utf8": "was ",
+      "tOffsetMs": 234
+    }, {
+      "utf8": "waiting.  ",
+      "tOffsetMs": 468
+    }, {
+      "utf8": "He ",
+      "tOffsetMs": 702
+    }, {
+      "utf8": "took ",
+      "tOffsetMs": 936
+    }, {
+      "utf8": "every",
+      "tOffsetMs": 1170
+    } ]
+  }, {
+    "tStartMs": 31721,
+    "dDurationMs": 1000,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 31762,
+    "dDurationMs": 2455,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "last "
+    }, {
+      "utf8": "coin, ",
+      "tOffsetMs": 343
+    }, {
+      "utf8": "and ",
+      "tOffsetMs": 686
+    }, {
+      "utf8": "when ",
+      "tOffsetMs": 1029
+    }, {
+      "utf8": "the",
+      "tOffsetMs": 1372
+    } ]
+  }, {
+    "tStartMs": 33217,
+    "dDurationMs": 1000,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 33258,
+    "dDurationMs": 2536,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "priest "
+    }, {
+      "utf8": "shouted ",
+      "tOffsetMs": 173
+    }, {
+      "utf8": "that ",
+      "tOffsetMs": 346
+    }, {
+      "utf8": "he ",
+      "tOffsetMs": 519
+    }, {
+      "utf8": "would ",
+      "tOffsetMs": 692
+    }, {
+      "utf8": "go ",
+      "tOffsetMs": 865
+    }, {
+      "utf8": "to ",
+      "tOffsetMs": 1038
+    }, {
+      "utf8": "hell",
+      "tOffsetMs": 1211
+    } ]
+  }, {
+    "tStartMs": 34794,
+    "dDurationMs": 1000,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 34834,
+    "dDurationMs": 2537,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for "
+    }, {
+      "utf8": "it, ",
+      "tOffsetMs": 208
+    }, {
+      "utf8": "the ",
+      "tOffsetMs": 416
+    }, {
+      "utf8": "gentleman ",
+      "tOffsetMs": 624
+    }, {
+      "utf8": "just ",
+      "tOffsetMs": 832
+    }, {
+      "utf8": "held ",
+      "tOffsetMs": 1040
+    }, {
+      "utf8": "up ",
+      "tOffsetMs": 1248
+    }, {
+      "utf8": "the",
+      "tOffsetMs": 1456
+    } ]
+  }, {
+    "tStartMs": 36371,
+    "dDurationMs": 1000,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 36411,
+    "dDurationMs": 2717,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "paper.  "
+    }, {
+      "utf8": "The ",
+      "tOffsetMs": 220
+    }, {
+      "utf8": "crime ",
+      "tOffsetMs": 440
+    }, {
+      "utf8": "for ",
+      "tOffsetMs": 660
+    }, {
+      "utf8": "which ",
+      "tOffsetMs": 880
+    }, {
+      "utf8": "he ",
+      "tOffsetMs": 1100
+    }, {
+      "utf8": "paid ",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": "to",
+      "tOffsetMs": 1540
+    } ]
+  }, {
+    "tStartMs": 38128,
+    "dDurationMs": 1000,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 38172,
+    "dDurationMs": 2705,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "be "
+    }, {
+      "utf8": "pardoned ",
+      "tOffsetMs": 224
+    }, {
+      "utf8": "was ",
+      "tOffsetMs": 448
+    }, {
+      "utf8": "stealing ",
+      "tOffsetMs": 672
+    }, {
+      "utf8": "from ",
+      "tOffsetMs": 896
+    }, {
+      "utf8": "the ",
+      "tOffsetMs": 1120
+    }, {
+      "utf8": "man ",
+      "tOffsetMs": 1344
+    }, {
+      "utf8": "who",
+      "tOffsetMs": 1568
+    } ]
+  }, {
+    "tStartMs": 39877,
+    "dDurationMs": 1000,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 39920,
+    "dDurationMs": 1613,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sold "
+    }, {
+      "utf8": "it ",
+      "tOffsetMs": 189
+    }, {
+      "utf8": "to ",
+      "tOffsetMs": 378
+    }, {
+      "utf8": "him.",
+      "tOffsetMs": 567
+    } ]
+  } ]
+}

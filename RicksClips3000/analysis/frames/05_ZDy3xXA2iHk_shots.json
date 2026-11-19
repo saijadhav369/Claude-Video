@@ -1,0 +1,46 @@
+{
+ "file": "05_ZDy3xXA2iHk",
+ "fps": 30.0,
+ "frames": 1965,
+ "shots": [
+  {
+   "shot": 1,
+   "start_f": 0,
+   "end_f": 1468,
+   "start_t": 0.0,
+   "dur_s": 48.97,
+   "luma": 116.2,
+   "contrast": 43.5,
+   "sat": 112.9,
+   "warm": -17.7,
+   "motion": 9.23,
+   "vignette": 6.8
+  },
+  {
+   "shot": 2,
+   "start_f": 1469,
+   "end_f": 1818,
+   "start_t": 48.97,
+   "dur_s": 11.67,
+   "luma": 145.6,
+   "contrast": 47.7,
+   "sat": 124.9,
+   "warm": 40.5,
+   "motion": 12.0,
+   "vignette": 1.0
+  },
+  {
+   "shot": 3,
+   "start_f": 1819,
+   "end_f": 1964,
+   "start_t": 60.63,
+   "dur_s": 4.87,
+   "luma": 129.6,
+   "contrast": 51.4,
+   "sat": 118.0,
+   "warm": 30.7,
+   "motion": 4.55,
+   "vignette": -3.1
+  }
+ ]
+}

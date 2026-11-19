@@ -1,0 +1,14 @@
+# Source videos are third-party content and ~720 MB; re-download them with the command in README.md
+*.mp4
+*.m4a
+*.webm
+*.part
+*.ytdl
+# yt-dlp dumps embed signed download URLs containing the downloader's IP; videos/metadata.json has the useful fields
+*.info.json
+
+# OS / editor noise
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/

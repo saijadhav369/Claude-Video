@@ -1,0 +1,1241 @@
+[
+ {
+  "file": "01_HxqtHI62otM",
+  "title": "The Pink Prison Cell Experiment",
+  "upload": "20261104",
+  "views": 72975,
+  "likes": 4997,
+  "dur": 65.23,
+  "words": 237,
+  "wpm": 219,
+  "sentences": 18,
+  "avg_sentence_words": 13.2,
+  "hook": "They painted the jail cell pink, and not just any pink.",
+  "hook_words": 11,
+  "hook_end_s": 3.2,
+  "uses_you": 1,
+  "long_pauses": [
+   0.36,
+   0.44
+  ],
+  "shots": 26,
+  "asl": 2.51,
+  "median_shot": 2.05,
+  "burst_shots_first_2.5s": 1,
+  "dissolve_frames_median": 16.5,
+  "hard_cuts": 5,
+  "pct_shots_moving": 100,
+  "push_in_shots": 19,
+  "pull_out_shots": 7,
+  "transition_to_nearest_word_median_s": 0.07,
+  "color": {
+   "first10": {
+    "luma": 101.5,
+    "contrast": 44.4,
+    "sat": 93.5,
+    "warm": -21.5,
+    "vignette": 21.2
+   },
+   "mid": {
+    "luma": 135.0,
+    "contrast": 52.4,
+    "sat": 97.0,
+    "warm": -10.8,
+    "vignette": 8.3
+   },
+   "last25": {
+    "luma": 140.1,
+    "contrast": 44.3,
+    "sat": 97.9,
+    "warm": 18.3,
+    "vignette": 26.5
+   }
+  },
+  "audio": {
+   "lufs": -14.2,
+   "lra": 2.2,
+   "speech_db": -16.899999618530273,
+   "gap_db": -21.5,
+   "lead_silence_s": 0.0,
+   "tail_after_last_word_s": 0.29,
+   "tail_db": -17.5
+  },
+  "description": "The Pink Prison Cell Experiment",
+  "tags": []
+ },
+ {
+  "file": "02_7xS87iActkU",
+  "title": "Why Perfect Railroads Don't Work",
+  "upload": "20261101",
+  "views": 19537481,
+  "likes": 420911,
+  "dur": 65.17,
+  "words": 218,
+  "wpm": 201,
+  "sentences": 21,
+  "avg_sentence_words": 10.4,
+  "hook": "He sawed gaps into a railroad every 39 feet.",
+  "hook_words": 9,
+  "hook_end_s": 3.22,
+  "uses_you": 7,
+  "long_pauses": [],
+  "shots": 33,
+  "asl": 1.98,
+  "median_shot": 1.4,
+  "burst_shots_first_2.5s": 3,
+  "dissolve_frames_median": 14.0,
+  "hard_cuts": 2,
+  "pct_shots_moving": 100,
+  "push_in_shots": 20,
+  "pull_out_shots": 8,
+  "transition_to_nearest_word_median_s": 0.08,
+  "color": {
+   "first10": {
+    "luma": 97.8,
+    "contrast": 46.1,
+    "sat": 141.2,
+    "warm": -9.9,
+    "vignette": 17.7
+   },
+   "mid": {
+    "luma": 111.0,
+    "contrast": 51.0,
+    "sat": 127.0,
+    "warm": 27.4,
+    "vignette": 10.7
+   },
+   "last25": {
+    "luma": 127.0,
+    "contrast": 54.7,
+    "sat": 108.2,
+    "warm": 26.5,
+    "vignette": 3.7
+   }
+  },
+  "audio": {
+   "lufs": -14.1,
+   "lra": 3.2,
+   "speech_db": -16.700000762939453,
+   "gap_db": -23.0,
+   "lead_silence_s": 0.0,
+   "tail_after_last_word_s": 0.28,
+   "tail_db": -16.5
+  },
+  "description": "Why Perfect Railroads Don't Work",
+  "tags": []
+ },
+ {
+  "file": "03_Mz72MuPgnGY",
+  "title": "Why Sailors Carried Storm Oil",
+  "upload": "20261030",
+  "views": 12924636,
+  "likes": 290981,
+  "dur": 64.57,
+  "words": 247,
+  "wpm": 230,
+  "sentences": 14,
+  "avg_sentence_words": 17.6,
+  "hook": "He poured cooking oil into the sea, with a pirate ship so close behind them he could hear the pirates laughing.",
+  "hook_words": 21,
+  "hook_end_s": 5.44,
+  "uses_you": 3,
+  "long_pauses": [
+   0.48
+  ],
+  "shots": 29,
+  "asl": 2.23,
+  "median_shot": 1.63,
+  "burst_shots_first_2.5s": 4,
+  "dissolve_frames_median": 9.5,
+  "hard_cuts": 6,
+  "pct_shots_moving": 100,
+  "push_in_shots": 17,
+  "pull_out_shots": 9,
+  "transition_to_nearest_word_median_s": 0.055,
+  "color": {
+   "first10": {
+    "luma": 110.5,
+    "contrast": 70.2,
+    "sat": 152.9,
+    "warm": 17.8,
+    "vignette": 8.4
+   },
+   "mid": {
+    "luma": 100.0,
+    "contrast": 59.6,
+    "sat": 156.7,
+    "warm": -10.5,
+    "vignette": 28.6
+   },
+   "last25": {
+    "luma": 103.9,
+    "contrast": 40.5,
+    "sat": 178.9,
+    "warm": -68.5,
+    "vignette": 22.4
+   }
+  },
+  "audio": {
+   "lufs": -14.0,
+   "lra": 2.4,
+   "speech_db": -16.799999237060547,
+   "gap_db": -22.100000381469727,
+   "lead_silence_s": 0.0,
+   "tail_after_last_word_s": 0.18,
+   "tail_db": -18.0
+  },
+  "description": "Why Sailors Carried Storm Oil",
+  "tags": []
+ },
+ {
+  "file": "04_5WMQhPObNqQ",
+  "title": "How a Mirror Rigged a Horse Race",
+  "upload": "20261029",
+  "views": 4992807,
+  "likes": 142982,
+  "dur": 64.07,
+  "words": 245,
+  "wpm": 231,
+  "sentences": 16,
+  "avg_sentence_words": 15.3,
+  "hook": "He bet his life savings on the slowest horse in the race.",
+  "hook_words": 12,
+  "hook_end_s": 3.06,
+  "uses_you": 1,
+  "long_pauses": [],
+  "shots": 27,
+  "asl": 2.37,
+  "median_shot": 1.8,
+  "burst_shots_first_2.5s": 1,
+  "dissolve_frames_median": 16.0,
+  "hard_cuts": 3,
+  "pct_shots_moving": 100,
+  "push_in_shots": 18,
+  "pull_out_shots": 8,
+  "transition_to_nearest_word_median_s": 0.08,
+  "color": {
+   "first10": {
+    "luma": 126.0,
+    "contrast": 53.9,
+    "sat": 108.3,
+    "warm": 2.1,
+    "vignette": 21.9
+   },
+   "mid": {
+    "luma": 120.8,
+    "contrast": 56.0,
+    "sat": 110.7,
+    "warm": 14.9,
+    "vignette": 17.5
+   },
+   "last25": {
+    "luma": 97.0,
+    "contrast": 47.6,
+    "sat": 120.8,
+    "warm": 23.9,
+    "vignette": 10.0
+   }
+  },
+  "audio": {
+   "lufs": -14.0,
+   "lra": 2.6,
+   "speech_db": -16.600000381469727,
+   "gap_db": -22.799999237060547,
+   "lead_silence_s": 0.0,
+   "tail_after_last_word_s": 0.39,
+   "tail_db": -19.200000762939453
+  },
+  "description": "How a Mirror Rigged a Horse Race",
+  "tags": []
+ },
+ {
+  "file": "05_ZDy3xXA2iHk",
+  "title": "The Town Built Around a Button",
+  "upload": "20261028",
+  "views": 3542075,
+  "likes": 104393,
+  "dur": 65.5,
+  "words": 245,
+  "wpm": 225,
+  "sentences": 16,
+  "avg_sentence_words": 15.3,
+  "hook": "There's a button in the middle of town, and nobody's allowed to press it.",
+  "hook_words": 14,
+  "hook_end_s": 3.4,
+  "uses_you": 0,
+  "long_pauses": [],
+  "shots": 26,
+  "asl": 2.52,
+  "median_shot": 2.3,
+  "burst_shots_first_2.5s": 1,
+  "dissolve_frames_median": 14.0,
+  "hard_cuts": 4,
+  "pct_shots_moving": 96,
+  "push_in_shots": 15,
+  "pull_out_shots": 9,
+  "transition_to_nearest_word_median_s": 0.08,
+  "color": {
+   "first10": {
+    "luma": 129.2,
+    "contrast": 49.2,
+    "sat": 92.7,
+    "warm": -22.9,
+    "vignette": 16.4
+   },
+   "mid": {
+    "luma": 114.2,
+    "contrast": 42.6,
+    "sat": 116.2,
+    "warm": -16.7,
+    "vignette": 5.3
+   },
+   "last25": {
+    "luma": 140.9,
+    "contrast": 48.8,
+    "sat": 122.6,
+    "warm": 37.5,
+    "vignette": -0.3
+   }
+  },
+  "audio": {
+   "lufs": -14.1,
+   "lra": 1.8,
+   "speech_db": -16.700000762939453,
+   "gap_db": -21.799999237060547,
+   "lead_silence_s": 0.0,
+   "tail_after_last_word_s": 0.29,
+   "tail_db": -17.299999237060547
+  },
+  "description": "The Town Built Around a Button",
+  "tags": []
+ },
+ {
+  "file": "06_LC8hYwUZ-kU",
+  "title": "Why the Second Draw Always Wins",
+  "upload": "20261027",
+  "views": 7987648,
+  "likes": 276169,
+  "dur": 56.07,
+  "words": 219,
+  "wpm": 235,
+  "sentences": 14,
+  "avg_sentence_words": 15.6,
+  "hook": "The fastest gun in the West had one rule.",
+  "hook_words": 9,
+  "hook_end_s": 2.2,
+  "uses_you": 21,
+  "long_pauses": [
+   0.38
+  ],
+  "shots": 20,
+  "asl": 2.8,
+  "median_shot": 2.45,
+  "burst_shots_first_2.5s": 2,
+  "dissolve_frames_median": 11.0,
+  "hard_cuts": 2,
+  "pct_shots_moving": 100,
+  "push_in_shots": 11,
+  "pull_out_shots": 8,
+  "transition_to_nearest_word_median_s": 0.05,
+  "color": {
+   "first10": {
+    "luma": 136.5,
+    "contrast": 47.5,
+    "sat": 93.9,
+    "warm": -2.2,
+    "vignette": 4.2
+   },
+   "mid": {
+    "luma": 117.9,
+    "contrast": 50.0,
+    "sat": 118.4,
+    "warm": 17.2,
+    "vignette": 11.5
+   },
+   "last25": {
+    "luma": 79.9,
+    "contrast": 57.3,
+    "sat": 141.9,
+    "warm": -5.1,
+    "vignette": 32.6
+   }
+  },
+  "audio": {
+   "lufs": -14.0,
+   "lra": 1.7,
+   "speech_db": -16.700000762939453,
+   "gap_db": -24.0,
+   "lead_silence_s": 0.0,
+   "tail_after_last_word_s": 0.18,
+   "tail_db": -17.700000762939453
+  },
+  "description": "Why the Second Draw Always Wins",
+  "tags": []
+ },
+ {
+  "file": "07_t3OXkhlI6NQ",
+  "title": "Every Memory Has a Price",
+  "upload": "20261026",
+  "views": 462927,
+  "likes": 19093,
+  "dur": 77.8,
+  "words": 295,
+  "wpm": 228,
+  "sentences": 24,
+  "avg_sentence_words": 12.3,
+  "hook": "He sold his happiest memory to a stranger behind a counter.",
+  "hook_words": 11,
+  "hook_end_s": 3.22,
+  "uses_you": 4,
+  "long_pauses": [],
+  "shots": 37,
+  "asl": 2.1,
+  "median_shot": 1.53,
+  "burst_shots_first_2.5s": 3,
+  "dissolve_frames_median": 15.5,
+  "hard_cuts": 2,
+  "pct_shots_moving": 84,
+  "push_in_shots": 20,
+  "pull_out_shots": 9,
+  "transition_to_nearest_word_median_s": 0.06,
+  "color": {
+   "first10": {
+    "luma": 63.1,
+    "contrast": 40.6,
+    "sat": 128.7,
+    "warm": -15.0,
+    "vignette": 34.8
+   },
+   "mid": {
+    "luma": 94.7,
+    "contrast": 49.9,
+    "sat": 131.8,
+    "warm": -25.1,
+    "vignette": 29.8
+   },
+   "last25": {
+    "luma": 95.5,
+    "contrast": 64.2,
+    "sat": 138.2,
+    "warm": -5.9,
+    "vignette": 48.5
+   }
+  },
+  "audio": {
+   "lufs": -14.1,
+   "lra": 1.9,
+   "speech_db": -16.700000762939453,
+   "gap_db": -23.200000762939453,
+   "lead_silence_s": 0.0,
+   "tail_after_last_word_s": 0.2,
+   "tail_db": -16.5
+  },
+  "description": "Every Memory Has a Price",
+  "tags": []
+ },
+ {
+  "file": "08_DEe0iKH4KIw",
+  "title": "He Could Spot Winning Tickets Just by Looking",
+  "upload": "20261025",
+  "views": 6001796,
+  "likes": 175760,
+  "dur": 63.27,
+  "words": 232,
+  "wpm": 221,
+  "sentences": 19,
+  "avg_sentence_words": 12.2,
+  "hook": "Look at these two scratch cards.",
+  "hook_words": 6,
+  "hook_end_s": 1.48,
+  "uses_you": 0,
+  "long_pauses": [
+   0.36
+  ],
+  "shots": 20,
+  "asl": 3.16,
+  "median_shot": 2.31,
+  "burst_shots_first_2.5s": 1,
+  "dissolve_frames_median": 17.0,
+  "hard_cuts": 0,
+  "pct_shots_moving": 90,
+  "push_in_shots": 11,
+  "pull_out_shots": 5,
+  "transition_to_nearest_word_median_s": 0.03,
+  "color": {
+   "first10": {
+    "luma": 95.1,
+    "contrast": 55.0,
+    "sat": 148.2,
+    "warm": 73.8,
+    "vignette": 48.5
+   },
+   "mid": {
+    "luma": 96.4,
+    "contrast": 58.0,
+    "sat": 119.4,
+    "warm": 14.7,
+    "vignette": 15.7
+   },
+   "last25": {
+    "luma": 134.3,
+    "contrast": 78.0,
+    "sat": 92.9,
+    "warm": 6.2,
+    "vignette": 1.5
+   }
+  },
+  "audio": {
+   "lufs": -14.0,
+   "lra": 2.1,
+   "speech_db": -16.799999237060547,
+   "gap_db": -23.700000762939453,
+   "lead_silence_s": 0.0,
+   "tail_after_last_word_s": 0.34,
+   "tail_db": -18.200000762939453
+  },
+  "description": "He Could Spot Winning Tickets Just by Looking",
+  "tags": []
+ },
+ {
+  "file": "09_GM9UKnZ6JFw",
+  "title": "What the Grave Bell Really Meant",
+  "upload": "20261024",
+  "views": 11296143,
+  "likes": 254288,
+  "dur": 59.5,
+  "words": 220,
+  "wpm": 223,
+  "sentences": 18,
+  "avg_sentence_words": 12.2,
+  "hook": "They buried a man alive with a bell tied to his finger.",
+  "hook_words": 12,
+  "hook_end_s": 3.0,
+  "uses_you": 4,
+  "long_pauses": [],
+  "shots": 20,
+  "asl": 2.98,
+  "median_shot": 2.23,
+  "burst_shots_first_2.5s": 2,
+  "dissolve_frames_median": 17.0,
+  "hard_cuts": 0,
+  "pct_shots_moving": 95,
+  "push_in_shots": 10,
+  "pull_out_shots": 7,
+  "transition_to_nearest_word_median_s": 0.09,
+  "color": {
+   "first10": {
+    "luma": 100.1,
+    "contrast": 44.8,
+    "sat": 148.6,
+    "warm": 54.2,
+    "vignette": 20.1
+   },
+   "mid": {
+    "luma": 99.1,
+    "contrast": 51.4,
+    "sat": 137.1,
+    "warm": -18.0,
+    "vignette": 25.8
+   },
+   "last25": {
+    "luma": 118.8,
+    "contrast": 48.1,
+    "sat": 122.1,
+    "warm": 2.4,
+    "vignette": 4.5
+   }
+  },
+  "audio": {
+   "lufs": -14.0,
+   "lra": 2.3,
+   "speech_db": -16.600000381469727,
+   "gap_db": -23.100000381469727,
+   "lead_silence_s": 0.0,
+   "tail_after_last_word_s": 0.3,
+   "tail_db": -19.399999618530273
+  },
+  "description": "What the Grave Bell Really Meant",
+  "tags": []
+ },
+ {
+  "file": "10_VKsamN3Fk4U",
+  "title": "Why Cashiers Keep Winning The Lottery",
+  "upload": "20261023",
+  "views": 7323594,
+  "likes": 218856,
+  "dur": 57.73,
+  "words": 200,
+  "wpm": 209,
+  "sentences": 10,
+  "avg_sentence_words": 20.0,
+  "hook": "He scanned a customer's lottery ticket, saw it had won a million dollars, and said, sorry man, not a winner.",
+  "hook_words": 20,
+  "hook_end_s": 5.62,
+  "uses_you": 1,
+  "long_pauses": [
+   0.56
+  ],
+  "shots": 22,
+  "asl": 2.62,
+  "median_shot": 1.73,
+  "burst_shots_first_2.5s": 3,
+  "dissolve_frames_median": 16.0,
+  "hard_cuts": 0,
+  "pct_shots_moving": 100,
+  "push_in_shots": 10,
+  "pull_out_shots": 9,
+  "transition_to_nearest_word_median_s": 0.12,
+  "color": {
+   "first10": {
+    "luma": 135.6,
+    "contrast": 56.1,
+    "sat": 96.6,
+    "warm": 45.5,
+    "vignette": 16.8
+   },
+   "mid": {
+    "luma": 136.9,
+    "contrast": 58.9,
+    "sat": 113.0,
+    "warm": 1.4,
+    "vignette": 12.6
+   },
+   "last25": {
+    "luma": 112.1,
+    "contrast": 44.3,
+    "sat": 119.3,
+    "warm": -22.5,
+    "vignette": 13.2
+   }
+  },
+  "audio": {
+   "lufs": -15.1,
+   "lra": 2.0,
+   "speech_db": -17.700000762939453,
+   "gap_db": -24.0,
+   "lead_silence_s": 0.0,
+   "tail_after_last_word_s": 0.33,
+   "tail_db": -20.5
+  },
+  "description": "Why Cashiers Keep Winning The Lottery",
+  "tags": []
+ },
+ {
+  "file": "11_0m6G8pDtzNs",
+  "title": "The Job Nobody Wants in Japan",
+  "upload": "20261022",
+  "views": 16469677,
+  "likes": 612238,
+  "dur": 60.5,
+  "words": 225,
+  "wpm": 224,
+  "sentences": 15,
+  "avg_sentence_words": 15.0,
+  "hook": "It's impossible to get fired in Japan, but companies found something way worse.",
+  "hook_words": 13,
+  "hook_end_s": 4.26,
+  "uses_you": 20,
+  "long_pauses": [],
+  "shots": 24,
+  "asl": 2.52,
+  "median_shot": 1.9,
+  "burst_shots_first_2.5s": 6,
+  "dissolve_frames_median": 13.0,
+  "hard_cuts": 1,
+  "pct_shots_moving": 100,
+  "push_in_shots": 14,
+  "pull_out_shots": 8,
+  "transition_to_nearest_word_median_s": 0.09,
+  "color": {
+   "first10": {
+    "luma": 108.8,
+    "contrast": 55.4,
+    "sat": 127.5,
+    "warm": -11.9,
+    "vignette": 17.0
+   },
+   "mid": {
+    "luma": 143.4,
+    "contrast": 52.6,
+    "sat": 100.2,
+    "warm": -20.5,
+    "vignette": 7.6
+   },
+   "last25": {
+    "luma": 108.9,
+    "contrast": 54.4,
+    "sat": 127.2,
+    "warm": -52.8,
+    "vignette": 21.6
+   }
+  },
+  "audio": {
+   "lufs": -14.1,
+   "lra": 1.8,
+   "speech_db": -16.799999237060547,
+   "gap_db": -23.5,
+   "lead_silence_s": 0.0,
+   "tail_after_last_word_s": 0.28,
+   "tail_db": -18.799999237060547
+  },
+  "description": "The Job Nobody Wants in Japan",
+  "tags": []
+ },
+ {
+  "file": "12_nzbkkEZFM8g",
+  "title": "The Burglar Who Only Moved Furniture",
+  "upload": "20261021",
+  "views": 8076546,
+  "likes": 203590,
+  "dur": 58.37,
+  "words": 239,
+  "wpm": 246,
+  "sentences": 14,
+  "avg_sentence_words": 17.1,
+  "hook": "A man snuck into a family's house every night and moved every single thing one inch to the left.",
+  "hook_words": 19,
+  "hook_end_s": 5.28,
+  "uses_you": 2,
+  "long_pauses": [
+   0.56
+  ],
+  "shots": 25,
+  "asl": 2.34,
+  "median_shot": 1.73,
+  "burst_shots_first_2.5s": 2,
+  "dissolve_frames_median": 14.0,
+  "hard_cuts": 2,
+  "pct_shots_moving": 92,
+  "push_in_shots": 16,
+  "pull_out_shots": 5,
+  "transition_to_nearest_word_median_s": 0.05,
+  "color": {
+   "first10": {
+    "luma": 90.5,
+    "contrast": 49.5,
+    "sat": 150.2,
+    "warm": -53.8,
+    "vignette": 31.7
+   },
+   "mid": {
+    "luma": 143.8,
+    "contrast": 61.2,
+    "sat": 111.8,
+    "warm": -1.4,
+    "vignette": 7.3
+   },
+   "last25": {
+    "luma": 146.8,
+    "contrast": 55.1,
+    "sat": 102.3,
+    "warm": 17.3,
+    "vignette": -1.0
+   }
+  },
+  "audio": {
+   "lufs": -14.1,
+   "lra": 1.7,
+   "speech_db": -16.899999618530273,
+   "gap_db": -23.299999237060547,
+   "lead_silence_s": 0.0,
+   "tail_after_last_word_s": 0.24,
+   "tail_db": -20.600000381469727
+  },
+  "description": "The Burglar Who Only Moved Furniture",
+  "tags": []
+ },
+ {
+  "file": "13_VS1Z_Q-Klt8",
+  "title": "The Ancient Jar That Warned an Empire",
+  "upload": "20261019",
+  "views": 31370819,
+  "likes": 886044,
+  "dur": 64.83,
+  "words": 235,
+  "wpm": 218,
+  "sentences": 19,
+  "avg_sentence_words": 12.4,
+  "hook": "He put a bronze ball in a dragon's mouth and told the emperor, if this ever falls out, run.",
+  "hook_words": 19,
+  "hook_end_s": 5.0,
+  "uses_you": 2,
+  "long_pauses": [],
+  "shots": 27,
+  "asl": 2.4,
+  "median_shot": 2.1,
+  "burst_shots_first_2.5s": 2,
+  "dissolve_frames_median": 13.0,
+  "hard_cuts": 3,
+  "pct_shots_moving": 93,
+  "push_in_shots": 14,
+  "pull_out_shots": 10,
+  "transition_to_nearest_word_median_s": 0.065,
+  "color": {
+   "first10": {
+    "luma": 105.1,
+    "contrast": 49.1,
+    "sat": 84.9,
+    "warm": 22.5,
+    "vignette": 23.4
+   },
+   "mid": {
+    "luma": 105.5,
+    "contrast": 46.5,
+    "sat": 109.5,
+    "warm": 5.1,
+    "vignette": 19.8
+   },
+   "last25": {
+    "luma": 125.5,
+    "contrast": 43.7,
+    "sat": 98.8,
+    "warm": 52.9,
+    "vignette": 10.8
+   }
+  },
+  "audio": {
+   "lufs": -14.1,
+   "lra": 2.1,
+   "speech_db": -16.600000381469727,
+   "gap_db": -22.899999618530273,
+   "lead_silence_s": 0.0,
+   "tail_after_last_word_s": 0.12,
+   "tail_db": -15.800000190734863
+  },
+  "description": "The Ancient Jar That Warned an Empire",
+  "tags": []
+ },
+ {
+  "file": "14_lnYLIWP2l-I",
+  "title": "Levels of Pirate Cannonballs",
+  "upload": "20261019",
+  "views": 8840167,
+  "likes": 211003,
+  "dur": 63.5,
+  "words": 221,
+  "wpm": 209,
+  "sentences": 9,
+  "avg_sentence_words": 24.6,
+  "hook": "If your ship got hit by a cannonball, you'd actually be one of the lucky ones.",
+  "hook_words": 16,
+  "hook_end_s": 3.82,
+  "uses_you": 2,
+  "long_pauses": [],
+  "shots": 28,
+  "asl": 2.27,
+  "median_shot": 1.3,
+  "burst_shots_first_2.5s": 4,
+  "dissolve_frames_median": 13.5,
+  "hard_cuts": 3,
+  "pct_shots_moving": 93,
+  "push_in_shots": 10,
+  "pull_out_shots": 14,
+  "transition_to_nearest_word_median_s": 0.06,
+  "color": {
+   "first10": {
+    "luma": 134.4,
+    "contrast": 47.5,
+    "sat": 129.7,
+    "warm": 7.5,
+    "vignette": 9.8
+   },
+   "mid": {
+    "luma": 119.1,
+    "contrast": 44.4,
+    "sat": 124.0,
+    "warm": 32.4,
+    "vignette": 8.3
+   },
+   "last25": {
+    "luma": 126.9,
+    "contrast": 47.0,
+    "sat": 109.6,
+    "warm": -11.2,
+    "vignette": 5.7
+   }
+  },
+  "audio": {
+   "lufs": -14.0,
+   "lra": 2.1,
+   "speech_db": -16.799999237060547,
+   "gap_db": -22.100000381469727,
+   "lead_silence_s": 0.0,
+   "tail_after_last_word_s": 0.21,
+   "tail_db": -15.899999618530273
+  },
+  "description": "Levels of Pirate Cannonballs",
+  "tags": []
+ },
+ {
+  "file": "15_jpFJ8Z_F-qU",
+  "title": "This Knight Found the Ultimate Loophole",
+  "upload": "20261018",
+  "views": 1615018,
+  "likes": 40633,
+  "dur": 40.63,
+  "words": 158,
+  "wpm": 234,
+  "sentences": 10,
+  "avg_sentence_words": 15.8,
+  "hook": "A knight paid a priest to forgive a crime he hadn't committed yet.",
+  "hook_words": 13,
+  "hook_end_s": 3.36,
+  "uses_you": 2,
+  "long_pauses": [],
+  "shots": 21,
+  "asl": 1.94,
+  "median_shot": 1.87,
+  "burst_shots_first_2.5s": 1,
+  "dissolve_frames_median": 11.0,
+  "hard_cuts": 2,
+  "pct_shots_moving": 100,
+  "push_in_shots": 10,
+  "pull_out_shots": 9,
+  "transition_to_nearest_word_median_s": 0.07,
+  "color": {
+   "first10": {
+    "luma": 128.2,
+    "contrast": 67.2,
+    "sat": 127.7,
+    "warm": 28.5,
+    "vignette": 19.5
+   },
+   "mid": {
+    "luma": 133.2,
+    "contrast": 54.2,
+    "sat": 118.9,
+    "warm": 30.5,
+    "vignette": 8.6
+   },
+   "last25": {
+    "luma": 149.2,
+    "contrast": 50.2,
+    "sat": 92.7,
+    "warm": 53.9,
+    "vignette": 19.6
+   }
+  },
+  "audio": {
+   "lufs": -15.0,
+   "lra": 2.4,
+   "speech_db": -17.899999618530273,
+   "gap_db": -25.100000381469727,
+   "lead_silence_s": 0.0,
+   "tail_after_last_word_s": 0.12,
+   "tail_db": -17.600000381469727
+  },
+  "description": "This Knight Found the Ultimate Loophole",
+  "tags": []
+ },
+ {
+  "file": "16_PLe2Gu3FDuA",
+  "title": "An Unstoppable Spear vs an Unbreakable Shield",
+  "upload": "20261017",
+  "views": 8704706,
+  "likes": 156162,
+  "dur": 45.0,
+  "words": 165,
+  "wpm": 221,
+  "sentences": 12,
+  "avg_sentence_words": 13.8,
+  "hook": "A blacksmith sold a spear that could pierce anything to one king, and a shield that nothing could pierce to his worst enemy.",
+  "hook_words": 23,
+  "hook_end_s": 6.08,
+  "uses_you": 1,
+  "long_pauses": [
+   0.36
+  ],
+  "shots": 19,
+  "asl": 2.37,
+  "median_shot": 1.73,
+  "burst_shots_first_2.5s": 1,
+  "dissolve_frames_median": 15.0,
+  "hard_cuts": 3,
+  "pct_shots_moving": 95,
+  "push_in_shots": 11,
+  "pull_out_shots": 6,
+  "transition_to_nearest_word_median_s": 0.065,
+  "color": {
+   "first10": {
+    "luma": 136.5,
+    "contrast": 48.3,
+    "sat": 92.7,
+    "warm": 0.3,
+    "vignette": 21.0
+   },
+   "mid": {
+    "luma": 129.5,
+    "contrast": 44.5,
+    "sat": 109.5,
+    "warm": 15.8,
+    "vignette": 26.0
+   },
+   "last25": {
+    "luma": 116.3,
+    "contrast": 49.5,
+    "sat": 129.2,
+    "warm": 22.2,
+    "vignette": 31.3
+   }
+  },
+  "audio": {
+   "lufs": -15.1,
+   "lra": 2.3,
+   "speech_db": -17.799999237060547,
+   "gap_db": -26.600000381469727,
+   "lead_silence_s": 0.0,
+   "tail_after_last_word_s": 0.21,
+   "tail_db": -18.5
+  },
+  "description": "An Unstoppable Spear vs An Unbreakable Shield",
+  "tags": []
+ },
+ {
+  "file": "17__sUAXTvJquk",
+  "title": "How Painkillers Actually Work",
+  "upload": "20261017",
+  "views": 300263,
+  "likes": 6871,
+  "dur": 34.43,
+  "words": 137,
+  "wpm": 240,
+  "sentences": 10,
+  "avg_sentence_words": 13.7,
+  "hook": "How do painkillers know where the pain is?",
+  "hook_words": 8,
+  "hook_end_s": 2.08,
+  "uses_you": 10,
+  "long_pauses": [
+   0.36
+  ],
+  "shots": 20,
+  "asl": 1.72,
+  "median_shot": 0.88,
+  "burst_shots_first_2.5s": 1,
+  "dissolve_frames_median": 15.0,
+  "hard_cuts": 0,
+  "pct_shots_moving": 100,
+  "push_in_shots": 17,
+  "pull_out_shots": 3,
+  "transition_to_nearest_word_median_s": 0.07,
+  "color": {
+   "first10": {
+    "luma": 153.4,
+    "contrast": 60.0,
+    "sat": 59.7,
+    "warm": 13.9,
+    "vignette": 11.2
+   },
+   "mid": {
+    "luma": 111.7,
+    "contrast": 49.5,
+    "sat": 134.8,
+    "warm": 60.9,
+    "vignette": 28.4
+   },
+   "last25": {
+    "luma": 102.9,
+    "contrast": 43.8,
+    "sat": 149.4,
+    "warm": 80.6,
+    "vignette": 27.4
+   }
+  },
+  "audio": {
+   "lufs": -14.1,
+   "lra": 1.8,
+   "speech_db": -16.700000762939453,
+   "gap_db": -28.200000762939453,
+   "lead_silence_s": 0.0,
+   "tail_after_last_word_s": 0.24,
+   "tail_db": -18.200000762939453
+  },
+  "description": "How Painkillers Actually Work",
+  "tags": []
+ },
+ {
+  "file": "18_eQR3pgMiUF0",
+  "title": "The Window That Breaks Japan's Gambling Law",
+  "upload": "20261015",
+  "views": 13777320,
+  "likes": 343937,
+  "dur": 45.03,
+  "words": 161,
+  "wpm": 215,
+  "sentences": 11,
+  "avg_sentence_words": 14.6,
+  "hook": "Gambling is illegal in Japan, yet there's a gambling hall on almost every street.",
+  "hook_words": 14,
+  "hook_end_s": 4.28,
+  "uses_you": 7,
+  "long_pauses": [
+   0.36
+  ],
+  "shots": 11,
+  "asl": 4.09,
+  "median_shot": 2.73,
+  "burst_shots_first_2.5s": 2,
+  "dissolve_frames_median": 13.0,
+  "hard_cuts": 1,
+  "pct_shots_moving": 100,
+  "push_in_shots": 7,
+  "pull_out_shots": 3,
+  "transition_to_nearest_word_median_s": 0.045,
+  "color": {
+   "first10": {
+    "luma": 62.1,
+    "contrast": 48.3,
+    "sat": 149.9,
+    "warm": -24.9,
+    "vignette": 56.0
+   },
+   "mid": {
+    "luma": 95.6,
+    "contrast": 57.4,
+    "sat": 127.1,
+    "warm": 26.3,
+    "vignette": 30.3
+   },
+   "last25": {
+    "luma": 65.0,
+    "contrast": 48.2,
+    "sat": 133.5,
+    "warm": -18.3,
+    "vignette": 47.3
+   }
+  },
+  "audio": {
+   "lufs": -14.3,
+   "lra": 2.4,
+   "speech_db": -17.399999618530273,
+   "gap_db": -23.600000381469727,
+   "lead_silence_s": 0.0,
+   "tail_after_last_word_s": 0.07,
+   "tail_db": -19.0
+  },
+  "description": "The Window That Breaks Japan's Gambling Law",
+  "tags": []
+ },
+ {
+  "file": "19_CJwgTrfrHL0",
+  "title": "The Science Behind Slot Machines",
+  "upload": "20261015",
+  "views": 111739,
+  "likes": 2250,
+  "dur": 30.93,
+  "words": 112,
+  "wpm": 218,
+  "sentences": 9,
+  "avg_sentence_words": 12.4,
+  "hook": "You just watched two jackpot symbols land, and the third one stopped one click short.",
+  "hook_words": 15,
+  "hook_end_s": 4.48,
+  "uses_you": 6,
+  "long_pauses": [],
+  "shots": 13,
+  "asl": 2.38,
+  "median_shot": 0.97,
+  "burst_shots_first_2.5s": 2,
+  "dissolve_frames_median": 13.5,
+  "hard_cuts": 4,
+  "pct_shots_moving": 92,
+  "push_in_shots": 5,
+  "pull_out_shots": 7,
+  "transition_to_nearest_word_median_s": 0.08,
+  "color": {
+   "first10": {
+    "luma": 95.4,
+    "contrast": 68.9,
+    "sat": 161.6,
+    "warm": 68.1,
+    "vignette": 49.4
+   },
+   "mid": {
+    "luma": 107.0,
+    "contrast": 61.6,
+    "sat": 156.0,
+    "warm": 76.1,
+    "vignette": 40.4
+   },
+   "last25": {
+    "luma": 115.1,
+    "contrast": 64.5,
+    "sat": 144.1,
+    "warm": 51.2,
+    "vignette": 53.2
+   }
+  },
+  "audio": {
+   "lufs": -15.1,
+   "lra": 2.5,
+   "speech_db": -17.899999618530273,
+   "gap_db": -24.600000381469727,
+   "lead_silence_s": 0.0,
+   "tail_after_last_word_s": 0.16,
+   "tail_db": -18.299999237060547
+  },
+  "description": "The Science Behind Slot Machines",
+  "tags": []
+ },
+ {
+  "file": "20_hdhggSABEws",
+  "title": "The Scientist's Insane Time Test",
+  "upload": "20261014",
+  "views": 6091176,
+  "likes": 90512,
+  "dur": 40.0,
+  "words": 143,
+  "wpm": 217,
+  "sentences": 9,
+  "avg_sentence_words": 15.9,
+  "hook": "A scientist dropped people off a tower just to find out what happens to time right before you die.",
+  "hook_words": 19,
+  "hook_end_s": 5.2,
+  "uses_you": 7,
+  "long_pauses": [],
+  "shots": 18,
+  "asl": 2.22,
+  "median_shot": 1.8,
+  "burst_shots_first_2.5s": 1,
+  "dissolve_frames_median": 12.0,
+  "hard_cuts": 2,
+  "pct_shots_moving": 94,
+  "push_in_shots": 16,
+  "pull_out_shots": 1,
+  "transition_to_nearest_word_median_s": 0.05,
+  "color": {
+   "first10": {
+    "luma": 163.9,
+    "contrast": 63.6,
+    "sat": 86.9,
+    "warm": 39.8,
+    "vignette": -9.8
+   },
+   "mid": {
+    "luma": 134.0,
+    "contrast": 55.2,
+    "sat": 106.2,
+    "warm": 0.0,
+    "vignette": -2.1
+   },
+   "last25": {
+    "luma": 138.0,
+    "contrast": 58.2,
+    "sat": 111.8,
+    "warm": 59.0,
+    "vignette": 27.7
+   }
+  },
+  "audio": {
+   "lufs": -15.1,
+   "lra": 1.6,
+   "speech_db": -17.700000762939453,
+   "gap_db": -25.200000762939453,
+   "lead_silence_s": 0.0,
+   "tail_after_last_word_s": 0.55,
+   "tail_db": -19.299999237060547
+  },
+  "description": "The Scientist's Insane Time Test",
+  "tags": []
+ }
+]

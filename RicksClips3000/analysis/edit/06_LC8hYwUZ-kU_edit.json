@@ -1,0 +1,244 @@
+{
+ "file": "06_LC8hYwUZ-kU",
+ "fps": 30.000356722434272,
+ "frames": 1682,
+ "dur": 56.07,
+ "transitions": [
+  {
+   "type": "dissolve",
+   "f": 20,
+   "t": 0.67,
+   "frames": 18
+  },
+  {
+   "type": "dissolve",
+   "f": 81,
+   "t": 2.7,
+   "frames": 6
+  },
+  {
+   "type": "dissolve",
+   "f": 155,
+   "t": 5.17,
+   "frames": 5
+  },
+  {
+   "type": "dissolve",
+   "f": 251,
+   "t": 8.37,
+   "frames": 8
+  },
+  {
+   "type": "dissolve",
+   "f": 430,
+   "t": 14.33,
+   "frames": 9
+  },
+  {
+   "type": "dissolve",
+   "f": 451,
+   "t": 15.03,
+   "frames": 10
+  },
+  {
+   "type": "cut",
+   "f": 512,
+   "t": 17.07,
+   "frames": 1
+  },
+  {
+   "type": "dissolve",
+   "f": 629,
+   "t": 20.97,
+   "frames": 11
+  },
+  {
+   "type": "dissolve",
+   "f": 767,
+   "t": 25.57,
+   "frames": 15
+  },
+  {
+   "type": "dissolve",
+   "f": 932,
+   "t": 31.07,
+   "frames": 13
+  },
+  {
+   "type": "dissolve",
+   "f": 1099,
+   "t": 36.63,
+   "frames": 15
+  },
+  {
+   "type": "dissolve",
+   "f": 1226,
+   "t": 40.87,
+   "frames": 4
+  },
+  {
+   "type": "dissolve",
+   "f": 1336,
+   "t": 44.53,
+   "frames": 16
+  },
+  {
+   "type": "dissolve",
+   "f": 1359,
+   "t": 45.3,
+   "frames": 10
+  },
+  {
+   "type": "cut",
+   "f": 1378,
+   "t": 45.93,
+   "frames": 1
+  },
+  {
+   "type": "dissolve",
+   "f": 1417,
+   "t": 47.23,
+   "frames": 12
+  },
+  {
+   "type": "dissolve",
+   "f": 1528,
+   "t": 50.93,
+   "frames": 20
+  },
+  {
+   "type": "dissolve",
+   "f": 1601,
+   "t": 53.37,
+   "frames": 4
+  },
+  {
+   "type": "dissolve",
+   "f": 1623,
+   "t": 54.1,
+   "frames": 14
+  }
+ ],
+ "shots": [
+  {
+   "start_t": 0.0,
+   "dur_s": 0.67,
+   "move": "push-in 2.8%/s",
+   "jitter": 0.02
+  },
+  {
+   "start_t": 0.67,
+   "dur_s": 2.03,
+   "move": "push-in 15.5%/s, pan-right 0.25w/s, tilt-up 0.05h/s, roll -6.2deg/s",
+   "jitter": 2.88
+  },
+  {
+   "start_t": 2.7,
+   "dur_s": 2.47,
+   "move": "pull-out 2.7%/s, pan-right 0.05w/s, roll -10.1deg/s",
+   "jitter": 1.4
+  },
+  {
+   "start_t": 5.17,
+   "dur_s": 3.2,
+   "move": "push-in 2.7%/s, pan-right 0.03w/s",
+   "jitter": 0.61
+  },
+  {
+   "start_t": 8.37,
+   "dur_s": 5.97,
+   "move": "pull-out 5.3%/s, pan-right 0.03w/s, tilt-up 0.05h/s",
+   "jitter": 1.34
+  },
+  {
+   "start_t": 14.33,
+   "dur_s": 0.7,
+   "move": "pull-out 7.6%/s, pan-right 0.17w/s, tilt-down 0.14h/s",
+   "jitter": 3.94
+  },
+  {
+   "start_t": 15.03,
+   "dur_s": 2.03,
+   "move": "pull-out 22.7%/s, pan-right 0.09w/s, roll 3.6deg/s",
+   "jitter": 2.24
+  },
+  {
+   "start_t": 17.07,
+   "dur_s": 3.9,
+   "move": "push-in 18.4%/s, pan-right 0.11w/s, roll 2.3deg/s",
+   "jitter": 1.12
+  },
+  {
+   "start_t": 20.97,
+   "dur_s": 4.6,
+   "move": "pull-out 6.8%/s, pan-right 0.19w/s, roll 1.8deg/s",
+   "jitter": 0.8
+  },
+  {
+   "start_t": 25.57,
+   "dur_s": 5.5,
+   "move": "roll -4.9deg/s",
+   "jitter": 1.06
+  },
+  {
+   "start_t": 31.07,
+   "dur_s": 5.57,
+   "move": "push-in 7.6%/s, tilt-down 0.03h/s",
+   "jitter": 0.7
+  },
+  {
+   "start_t": 36.63,
+   "dur_s": 4.23,
+   "move": "pull-out 10.2%/s, pan-right 0.08w/s, tilt-up 0.04h/s, roll -8.4deg/s",
+   "jitter": 3.42
+  },
+  {
+   "start_t": 40.87,
+   "dur_s": 3.67,
+   "move": "push-in 47.4%/s, pan-left 0.18w/s, roll 12.5deg/s",
+   "jitter": 1.75
+  },
+  {
+   "start_t": 44.53,
+   "dur_s": 0.77,
+   "move": "push-in 4.5%/s",
+   "jitter": 0.6
+  },
+  {
+   "start_t": 45.3,
+   "dur_s": 0.63,
+   "move": "pull-out 183.3%/s, pan-left 0.08w/s, tilt-down 0.16h/s",
+   "jitter": 0.43
+  },
+  {
+   "start_t": 45.93,
+   "dur_s": 1.3,
+   "move": "push-in 27.4%/s, pan-right 0.09w/s",
+   "jitter": 1.03
+  },
+  {
+   "start_t": 47.23,
+   "dur_s": 3.7,
+   "move": "push-in 7.8%/s, roll 2.6deg/s",
+   "jitter": 1.33
+  },
+  {
+   "start_t": 50.93,
+   "dur_s": 2.43,
+   "move": "pull-out 4.9%/s",
+   "jitter": 0.84
+  },
+  {
+   "start_t": 53.37,
+   "dur_s": 0.73,
+   "move": "push-in 16.8%/s",
+   "jitter": 0.62
+  },
+  {
+   "start_t": 54.1,
+   "dur_s": 1.97,
+   "move": "push-in 12.4%/s, roll 1.4deg/s",
+   "jitter": 1.08
+  }
+ ]
+}

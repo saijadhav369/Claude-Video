@@ -1,0 +1,33 @@
+{
+ "file": "06_LC8hYwUZ-kU",
+ "fps": 30.000356722434272,
+ "frames": 1682,
+ "shots": [
+  {
+   "shot": 1,
+   "start_f": 0,
+   "end_f": 1338,
+   "start_t": 0.0,
+   "dur_s": 44.63,
+   "luma": 118.7,
+   "contrast": 50.9,
+   "sat": 115.9,
+   "warm": 15.4,
+   "motion": 8.98,
+   "vignette": 12.1
+  },
+  {
+   "shot": 2,
+   "start_f": 1339,
+   "end_f": 1681,
+   "start_t": 44.63,
+   "dur_s": 11.43,
+   "luma": 77.1,
+   "contrast": 54.2,
+   "sat": 145.0,
+   "warm": -12.8,
+   "motion": 8.22,
+   "vignette": 31.3
+  }
+ ]
+}

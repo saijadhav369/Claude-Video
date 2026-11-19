@@ -1,0 +1,59 @@
+{
+ "file": "16_PLe2Gu3FDuA",
+ "fps": 30.00066668148181,
+ "frames": 1350,
+ "shots": [
+  {
+   "shot": 1,
+   "start_f": 0,
+   "end_f": 576,
+   "start_t": 0.0,
+   "dur_s": 19.23,
+   "luma": 154.0,
+   "contrast": 45.5,
+   "sat": 93.7,
+   "warm": 11.9,
+   "motion": 8.39,
+   "vignette": 14.4
+  },
+  {
+   "shot": 2,
+   "start_f": 577,
+   "end_f": 602,
+   "start_t": 19.23,
+   "dur_s": 0.87,
+   "luma": 87.9,
+   "contrast": 40.8,
+   "sat": 82.6,
+   "warm": -27.1,
+   "motion": 1.85,
+   "vignette": 26.0
+  },
+  {
+   "shot": 3,
+   "start_f": 603,
+   "end_f": 839,
+   "start_t": 20.1,
+   "dur_s": 7.9,
+   "luma": 126.2,
+   "contrast": 42.1,
+   "sat": 121.5,
+   "warm": 29.3,
+   "motion": 6.48,
+   "vignette": 34.0
+  },
+  {
+   "shot": 4,
+   "start_f": 840,
+   "end_f": 1349,
+   "start_t": 28.0,
+   "dur_s": 17.0,
+   "luma": 98.6,
+   "contrast": 49.0,
+   "sat": 131.8,
+   "warm": 16.1,
+   "motion": 5.22,
+   "vignette": 37.6
+  }
+ ]
+}

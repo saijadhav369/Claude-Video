@@ -1,0 +1,33 @@
+{
+ "file": "19_CJwgTrfrHL0",
+ "fps": 30.000323279345682,
+ "frames": 928,
+ "shots": [
+  {
+   "shot": 1,
+   "start_f": 0,
+   "end_f": 781,
+   "start_t": 0.0,
+   "dur_s": 26.07,
+   "luma": 109.7,
+   "contrast": 61.7,
+   "sat": 157.4,
+   "warm": 79.5,
+   "motion": 14.56,
+   "vignette": 42.0
+  },
+  {
+   "shot": 2,
+   "start_f": 782,
+   "end_f": 927,
+   "start_t": 26.07,
+   "dur_s": 4.87,
+   "luma": 98.1,
+   "contrast": 70.0,
+   "sat": 133.1,
+   "warm": 13.2,
+   "motion": 19.35,
+   "vignette": 57.8
+  }
+ ]
+}

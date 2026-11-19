@@ -1,0 +1,85 @@
+{
+ "file": "03_Mz72MuPgnGY",
+ "fps": 30.00030976055509,
+ "frames": 1937,
+ "shots": [
+  {
+   "shot": 1,
+   "start_f": 0,
+   "end_f": 767,
+   "start_t": 0.0,
+   "dur_s": 25.6,
+   "luma": 115.7,
+   "contrast": 70.3,
+   "sat": 142.1,
+   "warm": 26.9,
+   "motion": 15.55,
+   "vignette": 25.4
+  },
+  {
+   "shot": 2,
+   "start_f": 768,
+   "end_f": 799,
+   "start_t": 25.6,
+   "dur_s": 1.07,
+   "luma": 116.4,
+   "contrast": 73.5,
+   "sat": 134.1,
+   "warm": 42.4,
+   "motion": 16.52,
+   "vignette": 14.2
+  },
+  {
+   "shot": 3,
+   "start_f": 800,
+   "end_f": 1288,
+   "start_t": 26.67,
+   "dur_s": 16.3,
+   "luma": 75.0,
+   "contrast": 40.7,
+   "sat": 181.2,
+   "warm": -86.9,
+   "motion": 9.65,
+   "vignette": 19.9
+  },
+  {
+   "shot": 4,
+   "start_f": 1289,
+   "end_f": 1571,
+   "start_t": 42.97,
+   "dur_s": 9.43,
+   "luma": 138.6,
+   "contrast": 65.1,
+   "sat": 151.4,
+   "warm": 90.2,
+   "motion": 10.12,
+   "vignette": 41.3
+  },
+  {
+   "shot": 5,
+   "start_f": 1572,
+   "end_f": 1575,
+   "start_t": 52.4,
+   "dur_s": 0.13,
+   "luma": 170.0,
+   "contrast": 20.6,
+   "sat": 79.7,
+   "warm": 41.3,
+   "motion": 18.7,
+   "vignette": 6.2
+  },
+  {
+   "shot": 6,
+   "start_f": 1576,
+   "end_f": 1936,
+   "start_t": 52.53,
+   "dur_s": 12.03,
+   "luma": 79.1,
+   "contrast": 37.3,
+   "sat": 189.3,
+   "warm": -133.6,
+   "motion": 6.39,
+   "vignette": 19.4
+  }
+ ]
+}

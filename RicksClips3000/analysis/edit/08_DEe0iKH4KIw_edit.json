@@ -1,0 +1,244 @@
+{
+ "file": "08_DEe0iKH4KIw",
+ "fps": 29.999841939715807,
+ "frames": 1898,
+ "dur": 63.27,
+ "transitions": [
+  {
+   "type": "dissolve",
+   "f": 156,
+   "t": 5.2,
+   "frames": 25
+  },
+  {
+   "type": "dissolve",
+   "f": 192,
+   "t": 6.4,
+   "frames": 18
+  },
+  {
+   "type": "dissolve",
+   "f": 256,
+   "t": 8.53,
+   "frames": 16
+  },
+  {
+   "type": "dissolve",
+   "f": 325,
+   "t": 10.83,
+   "frames": 21
+  },
+  {
+   "type": "dissolve",
+   "f": 408,
+   "t": 13.6,
+   "frames": 16
+  },
+  {
+   "type": "dissolve",
+   "f": 510,
+   "t": 17.0,
+   "frames": 5
+  },
+  {
+   "type": "dissolve",
+   "f": 517,
+   "t": 17.23,
+   "frames": 31
+  },
+  {
+   "type": "dissolve",
+   "f": 673,
+   "t": 22.43,
+   "frames": 19
+  },
+  {
+   "type": "dissolve",
+   "f": 833,
+   "t": 27.77,
+   "frames": 20
+  },
+  {
+   "type": "dissolve",
+   "f": 890,
+   "t": 29.67,
+   "frames": 15
+  },
+  {
+   "type": "dissolve",
+   "f": 950,
+   "t": 31.67,
+   "frames": 15
+  },
+  {
+   "type": "dissolve",
+   "f": 1020,
+   "t": 34.0,
+   "frames": 11
+  },
+  {
+   "type": "dissolve",
+   "f": 1275,
+   "t": 42.5,
+   "frames": 15
+  },
+  {
+   "type": "dissolve",
+   "f": 1298,
+   "t": 43.27,
+   "frames": 3
+  },
+  {
+   "type": "dissolve",
+   "f": 1345,
+   "t": 44.83,
+   "frames": 17
+  },
+  {
+   "type": "dissolve",
+   "f": 1447,
+   "t": 48.23,
+   "frames": 18
+  },
+  {
+   "type": "dissolve",
+   "f": 1490,
+   "t": 49.67,
+   "frames": 30
+  },
+  {
+   "type": "dissolve",
+   "f": 1534,
+   "t": 51.13,
+   "frames": 13
+  },
+  {
+   "type": "dissolve",
+   "f": 1799,
+   "t": 59.97,
+   "frames": 18
+  }
+ ],
+ "shots": [
+  {
+   "start_t": 0.0,
+   "dur_s": 5.2,
+   "move": "push-in 10.2%/s, tilt-down 0.03h/s",
+   "jitter": 1.11
+  },
+  {
+   "start_t": 5.2,
+   "dur_s": 1.2,
+   "move": "push-in 54.4%/s, pan-right 0.06w/s, tilt-down 0.10h/s",
+   "jitter": 1.59
+  },
+  {
+   "start_t": 6.4,
+   "dur_s": 2.13,
+   "move": "push-in 47.1%/s, pan-left 0.12w/s, tilt-down 0.07h/s, roll -3.2deg/s",
+   "jitter": 1.31
+  },
+  {
+   "start_t": 8.53,
+   "dur_s": 2.3,
+   "move": "static/locked",
+   "jitter": 0.88
+  },
+  {
+   "start_t": 10.83,
+   "dur_s": 2.77,
+   "move": "pan-right 0.05w/s",
+   "jitter": 1.91
+  },
+  {
+   "start_t": 13.6,
+   "dur_s": 3.4,
+   "move": "push-in 5.6%/s",
+   "jitter": 0.54
+  },
+  {
+   "start_t": 17.0,
+   "dur_s": 0.23,
+   "move": "push-in 46.4%/s, pan-left 0.51w/s, tilt-up 0.08h/s, roll 27.8deg/s",
+   "jitter": 2.62
+  },
+  {
+   "start_t": 17.23,
+   "dur_s": 5.2,
+   "move": "pull-out 39.3%/s, pan-left 0.08w/s, tilt-up 0.11h/s",
+   "jitter": 2.54
+  },
+  {
+   "start_t": 22.43,
+   "dur_s": 5.33,
+   "move": "static/locked",
+   "jitter": 0.8
+  },
+  {
+   "start_t": 27.77,
+   "dur_s": 1.9,
+   "move": "pull-out 7.9%/s, tilt-down 0.04h/s",
+   "jitter": 0.32
+  },
+  {
+   "start_t": 29.67,
+   "dur_s": 2.0,
+   "move": "push-in 5.8%/s",
+   "jitter": 0.31
+  },
+  {
+   "start_t": 31.67,
+   "dur_s": 2.33,
+   "move": "push-in 25.6%/s, tilt-down 0.12h/s",
+   "jitter": 0.98
+  },
+  {
+   "start_t": 34.0,
+   "dur_s": 8.5,
+   "move": "tilt-up 0.11h/s, roll -1.8deg/s",
+   "jitter": 2.98
+  },
+  {
+   "start_t": 42.5,
+   "dur_s": 0.77,
+   "move": "push-in 6.9%/s, roll 1.3deg/s",
+   "jitter": 0.22
+  },
+  {
+   "start_t": 43.27,
+   "dur_s": 1.57,
+   "move": "push-in 10.0%/s",
+   "jitter": 0.25
+  },
+  {
+   "start_t": 44.83,
+   "dur_s": 3.4,
+   "move": "push-in 2.1%/s",
+   "jitter": 0.48
+  },
+  {
+   "start_t": 48.23,
+   "dur_s": 1.43,
+   "move": "push-in 13.3%/s",
+   "jitter": 0.3
+  },
+  {
+   "start_t": 49.67,
+   "dur_s": 1.47,
+   "move": "pull-out 21.6%/s, tilt-down 0.09h/s, roll 4.5deg/s",
+   "jitter": 2.61
+  },
+  {
+   "start_t": 51.13,
+   "dur_s": 8.83,
+   "move": "pull-out 4.2%/s",
+   "jitter": 1.44
+  },
+  {
+   "start_t": 59.97,
+   "dur_s": 3.3,
+   "move": "pull-out 11.2%/s",
+   "jitter": 0.42
+  }
+ ]
+}

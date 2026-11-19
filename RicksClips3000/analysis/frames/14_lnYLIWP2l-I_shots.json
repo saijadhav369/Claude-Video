@@ -1,0 +1,111 @@
+{
+ "file": "14_lnYLIWP2l-I",
+ "fps": 30.0,
+ "frames": 1905,
+ "shots": [
+  {
+   "shot": 1,
+   "start_f": 0,
+   "end_f": 65,
+   "start_t": 0.0,
+   "dur_s": 2.2,
+   "luma": 149.6,
+   "contrast": 48.9,
+   "sat": 119.8,
+   "warm": -2.8,
+   "motion": 19.21,
+   "vignette": 3.2
+  },
+  {
+   "shot": 2,
+   "start_f": 66,
+   "end_f": 539,
+   "start_t": 2.2,
+   "dur_s": 15.8,
+   "luma": 136.5,
+   "contrast": 45.9,
+   "sat": 120.5,
+   "warm": 25.8,
+   "motion": 16.42,
+   "vignette": -5.9
+  },
+  {
+   "shot": 3,
+   "start_f": 540,
+   "end_f": 814,
+   "start_t": 18.0,
+   "dur_s": 9.17,
+   "luma": 142.8,
+   "contrast": 48.8,
+   "sat": 117.5,
+   "warm": 31.3,
+   "motion": 21.74,
+   "vignette": 3.9
+  },
+  {
+   "shot": 4,
+   "start_f": 815,
+   "end_f": 904,
+   "start_t": 27.17,
+   "dur_s": 3.0,
+   "luma": 121.7,
+   "contrast": 44.1,
+   "sat": 93.2,
+   "warm": 38.1,
+   "motion": 7.71,
+   "vignette": 36.3
+  },
+  {
+   "shot": 5,
+   "start_f": 905,
+   "end_f": 909,
+   "start_t": 30.17,
+   "dur_s": 0.17,
+   "luma": 174.5,
+   "contrast": 38.2,
+   "sat": 105.2,
+   "warm": 86.1,
+   "motion": 10.78,
+   "vignette": 36.3
+  },
+  {
+   "shot": 6,
+   "start_f": 910,
+   "end_f": 913,
+   "start_t": 30.33,
+   "dur_s": 0.13,
+   "luma": 145.3,
+   "contrast": 42.8,
+   "sat": 102.9,
+   "warm": 2.3,
+   "motion": 21.66,
+   "vignette": 4.0
+  },
+  {
+   "shot": 7,
+   "start_f": 914,
+   "end_f": 1825,
+   "start_t": 30.47,
+   "dur_s": 30.4,
+   "luma": 106.3,
+   "contrast": 43.9,
+   "sat": 125.4,
+   "warm": 14.1,
+   "motion": 7.61,
+   "vignette": 13.7
+  },
+  {
+   "shot": 8,
+   "start_f": 1826,
+   "end_f": 1904,
+   "start_t": 60.87,
+   "dur_s": 2.63,
+   "luma": 130.5,
+   "contrast": 46.4,
+   "sat": 119.6,
+   "warm": -14.7,
+   "motion": 5.48,
+   "vignette": 4.7
+  }
+ ]
+}

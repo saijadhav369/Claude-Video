@@ -1,0 +1,33 @@
+{
+ "file": "02_7xS87iActkU",
+ "fps": 29.999846548099498,
+ "frames": 1955,
+ "shots": [
+  {
+   "shot": 1,
+   "start_f": 0,
+   "end_f": 347,
+   "start_t": 0.0,
+   "dur_s": 11.6,
+   "luma": 100.0,
+   "contrast": 45.6,
+   "sat": 138.5,
+   "warm": -20.6,
+   "motion": 11.31,
+   "vignette": 9.9
+  },
+  {
+   "shot": 2,
+   "start_f": 348,
+   "end_f": 1954,
+   "start_t": 11.6,
+   "dur_s": 53.57,
+   "luma": 116.6,
+   "contrast": 52.7,
+   "sat": 120.5,
+   "warm": 33.0,
+   "motion": 13.61,
+   "vignette": 9.6
+  }
+ ]
+}

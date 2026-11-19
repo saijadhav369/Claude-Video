@@ -1,0 +1,136 @@
+{
+ "file": "18_eQR3pgMiUF0",
+ "fps": 30.00022205937868,
+ "frames": 1351,
+ "dur": 45.03,
+ "transitions": [
+  {
+   "type": "dissolve",
+   "f": 58,
+   "t": 1.93,
+   "frames": 12
+  },
+  {
+   "type": "dissolve",
+   "f": 136,
+   "t": 4.53,
+   "frames": 16
+  },
+  {
+   "type": "cut",
+   "f": 157,
+   "t": 5.23,
+   "frames": 2
+  },
+  {
+   "type": "dissolve",
+   "f": 312,
+   "t": 10.4,
+   "frames": 13
+  },
+  {
+   "type": "dissolve",
+   "f": 413,
+   "t": 13.77,
+   "frames": 13
+  },
+  {
+   "type": "dissolve",
+   "f": 492,
+   "t": 16.4,
+   "frames": 11
+  },
+  {
+   "type": "dissolve",
+   "f": 806,
+   "t": 26.87,
+   "frames": 13
+  },
+  {
+   "type": "dissolve",
+   "f": 1111,
+   "t": 37.03,
+   "frames": 13
+  },
+  {
+   "type": "dissolve",
+   "f": 1223,
+   "t": 40.77,
+   "frames": 10
+  },
+  {
+   "type": "dissolve",
+   "f": 1305,
+   "t": 43.5,
+   "frames": 9
+  }
+ ],
+ "shots": [
+  {
+   "start_t": 0.0,
+   "dur_s": 1.93,
+   "move": "push-in 22.0%/s",
+   "jitter": 0.23
+  },
+  {
+   "start_t": 1.93,
+   "dur_s": 2.6,
+   "move": "pull-out 34.8%/s, roll 1.8deg/s",
+   "jitter": 0.59
+  },
+  {
+   "start_t": 4.53,
+   "dur_s": 0.7,
+   "move": "push-in 35.6%/s, tilt-up 0.05h/s",
+   "jitter": 0.83
+  },
+  {
+   "start_t": 5.23,
+   "dur_s": 5.17,
+   "move": "push-in 41.2%/s, tilt-up 0.08h/s",
+   "jitter": 0.69
+  },
+  {
+   "start_t": 10.4,
+   "dur_s": 3.37,
+   "move": "pan-left 0.06w/s",
+   "jitter": 0.2
+  },
+  {
+   "start_t": 13.77,
+   "dur_s": 2.63,
+   "move": "pull-out 5.7%/s, pan-right 0.07w/s, roll 1.8deg/s",
+   "jitter": 0.37
+  },
+  {
+   "start_t": 16.4,
+   "dur_s": 10.47,
+   "move": "push-in 11.5%/s, roll 1.6deg/s",
+   "jitter": 0.29
+  },
+  {
+   "start_t": 26.87,
+   "dur_s": 10.17,
+   "move": "push-in 10.8%/s",
+   "jitter": 0.36
+  },
+  {
+   "start_t": 37.03,
+   "dur_s": 3.73,
+   "move": "push-in 2.9%/s",
+   "jitter": 0.08
+  },
+  {
+   "start_t": 40.77,
+   "dur_s": 2.73,
+   "move": "push-in 3.3%/s",
+   "jitter": 0.11
+  },
+  {
+   "start_t": 43.5,
+   "dur_s": 1.53,
+   "move": "pull-out 2.6%/s",
+   "jitter": 0.04
+  }
+ ]
+}

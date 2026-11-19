@@ -1,0 +1,59 @@
+{
+ "file": "17__sUAXTvJquk",
+ "fps": 30.000290419074727,
+ "frames": 1033,
+ "shots": [
+  {
+   "shot": 1,
+   "start_f": 0,
+   "end_f": 121,
+   "start_t": 0.0,
+   "dur_s": 4.07,
+   "luma": 155.6,
+   "contrast": 59.9,
+   "sat": 60.2,
+   "warm": 16.3,
+   "motion": 8.69,
+   "vignette": 6.5
+  },
+  {
+   "shot": 2,
+   "start_f": 122,
+   "end_f": 237,
+   "start_t": 4.07,
+   "dur_s": 3.87,
+   "luma": 110.6,
+   "contrast": 48.7,
+   "sat": 147.8,
+   "warm": 58.0,
+   "motion": 16.42,
+   "vignette": 30.7
+  },
+  {
+   "shot": 3,
+   "start_f": 238,
+   "end_f": 303,
+   "start_t": 7.93,
+   "dur_s": 2.2,
+   "luma": 123.8,
+   "contrast": 36.0,
+   "sat": 140.7,
+   "warm": 86.4,
+   "motion": 11.17,
+   "vignette": 22.6
+  },
+  {
+   "shot": 4,
+   "start_f": 304,
+   "end_f": 1032,
+   "start_t": 10.13,
+   "dur_s": 24.3,
+   "luma": 106.2,
+   "contrast": 48.6,
+   "sat": 139.2,
+   "warm": 66.9,
+   "motion": 12.49,
+   "vignette": 29.4
+  }
+ ]
+}

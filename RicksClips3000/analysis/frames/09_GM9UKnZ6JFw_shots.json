@@ -1,0 +1,59 @@
+{
+ "file": "09_GM9UKnZ6JFw",
+ "fps": 30.0,
+ "frames": 1785,
+ "shots": [
+  {
+   "shot": 1,
+   "start_f": 0,
+   "end_f": 1121,
+   "start_t": 0.0,
+   "dur_s": 37.4,
+   "luma": 94.8,
+   "contrast": 49.4,
+   "sat": 141.0,
+   "warm": -15.6,
+   "motion": 8.44,
+   "vignette": 27.0
+  },
+  {
+   "shot": 2,
+   "start_f": 1122,
+   "end_f": 1204,
+   "start_t": 37.4,
+   "dur_s": 2.77,
+   "luma": 122.4,
+   "contrast": 52.8,
+   "sat": 108.8,
+   "warm": 13.5,
+   "motion": 21.74,
+   "vignette": 11.9
+  },
+  {
+   "shot": 3,
+   "start_f": 1205,
+   "end_f": 1391,
+   "start_t": 40.17,
+   "dur_s": 6.23,
+   "luma": 119.8,
+   "contrast": 57.7,
+   "sat": 139.9,
+   "warm": 31.6,
+   "motion": 16.16,
+   "vignette": 11.6
+  },
+  {
+   "shot": 4,
+   "start_f": 1392,
+   "end_f": 1784,
+   "start_t": 46.4,
+   "dur_s": 13.1,
+   "luma": 119.3,
+   "contrast": 47.3,
+   "sat": 118.7,
+   "warm": 0.5,
+   "motion": 6.74,
+   "vignette": 5.5
+  }
+ ]
+}
